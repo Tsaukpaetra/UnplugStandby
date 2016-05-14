@@ -8,8 +8,8 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("UnplugStandby")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyTitle("UnplugStandby")>
+<Assembly: AssemblyDescription("Provides a timeout UI to power down a system when unplugged from power")>
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("UnplugStandby")> 
 <Assembly: AssemblyCopyright("Copyright ©  2011")> 
